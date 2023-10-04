@@ -2,11 +2,11 @@
 
 # IDS706-MiniProj5
 
-## Project Overview
+## Overview
 
 This project utilizes the `sqlite3` library to interact with a SQL database and perform CRUD (Create, Read, Update, Delete) operations. It is designed to showcase basic database functionality within a Python application.
 
-## Project Components
+## Components
 
 1. **`workflows`**: This directory contains GitHub Actions workflows that enable automated Continuous Integration and Continuous Deployment (CI/CD) for the project.
 
@@ -18,7 +18,7 @@ This project utilizes the `sqlite3` library to interact with a SQL database and 
 
 5. **`test_main.py`**: The `test_main.py` script is used to test whether the insertion of two user records into the database was successful.
 
-## CRUD Operations
+## CRUD 
 
 The project demonstrates basic CRUD operations on an SQLite database:
 
